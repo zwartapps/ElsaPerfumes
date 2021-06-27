@@ -1,3 +1,9 @@
-.img {
-    width: auto;
+img {
+margin: auto;
+width: 80%;
+
+}
+
+div {
+    text-align: center;
 }
